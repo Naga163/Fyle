@@ -84,5 +84,5 @@ The build artifacts will be stored in the `dist/` directory.</p>
 
 <h3> Contact</h3>
 
-For any questions, please contact [gadupudinagasai1234@gmail.com]mailto:ichha2111@gmail.com).
+For any questions, please contact [gadupudinagasai1234@gmail.com].
 
