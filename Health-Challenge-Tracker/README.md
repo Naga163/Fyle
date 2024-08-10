@@ -45,7 +45,7 @@ Follow these steps to run the application locally.
 
 1. <b>Clone the Repository:</b>
 <p>
-    git clone https://github.com/ichhakumari/health-challenge-tracker-master.git
+    git clone https://github.com/Naga163/Fyle.git
     cd Health-Challenge-Tracker
 </p>
 
@@ -84,5 +84,5 @@ The build artifacts will be stored in the `dist/` directory.</p>
 
 <h3> Contact</h3>
 
-For any questions, please contact [ichha2111@gmail.com](mailto:ichha2111@gmail.com).
+For any questions, please contact [gadupudinagasai1234@gmail.com]mailto:ichha2111@gmail.com).
 
